@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gray_button.png",
+        "source": "E:\\Demo\\app\\src\\main\\res\\drawable-xhdpi\\gray_button.png"
+    }
+]

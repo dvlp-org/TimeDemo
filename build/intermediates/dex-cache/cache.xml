@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_703a2aeb687802744c4c8922320d53f356ad45e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\Demo\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_550d29ad0f3cffd800917ef79fa82950b636c374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\Demo\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_eb965be8da3414ded1dec313acce8ae35b4ce3b0.jar" />
+    </item>
+
+</items>
